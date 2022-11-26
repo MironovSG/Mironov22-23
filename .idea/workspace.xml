@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="" />
+    <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/Lr1/Example6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example5.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2I5hQ3wVREfNHgkWSaVIQKsyEvl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,6 +40,81 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lr1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Example3">
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example3" />
+      <module name="Mironov22-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example4" />
+      <module name="Mironov22-23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example4" />
+      <module name="Mironov22-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example5" />
+      <module name="Mironov22-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example6" />
+      <module name="Mironov22-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example6" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example4 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +125,20 @@
       <updated>1669477336336</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
