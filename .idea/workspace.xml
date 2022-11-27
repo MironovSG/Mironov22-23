@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Lr1/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/Example11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr1/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr1/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr1/Example14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lr1/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Ex11.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example11">
-    <configuration name="Ex11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr1.Ex11" />
+  <component name="RunManager" selected="Application.Example14">
+    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example12" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr1.Example10" />
+    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example13" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr1.Example11" />
+    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example14" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr1.Example5" />
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example2" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example11" />
-        <item itemvalue="Application.Ex11" />
+        <item itemvalue="Application.Example14" />
+        <item itemvalue="Application.Example13" />
+        <item itemvalue="Application.Example12" />
         <item itemvalue="Application.Example9" />
-        <item itemvalue="Application.Example10" />
-        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example2" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669484188846</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1669494026636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669494026636</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1669494061117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669494061117</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
