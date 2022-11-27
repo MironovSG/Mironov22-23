@@ -5,12 +5,15 @@ import java.time.Year;
 public class Example11 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Укажи свой возраст, а я покажу год рождения");
-        System.out.println("Твой возраст:");
-        int number = in.nextInt();
+        System.out.println("Укажи своё имя и год рождения");
+        System.out.println("Твоё имя: ");
+        String name = in.nextLine();
+        System.out.println("Твой год рождения");
+        int year = in.nextInt();
         int yearNow = Year.now().getValue();
-        int year = yearNow - number;
-        System.out.println("Твой год рождения: " + year);
+        int number = yearNow - year;
+        System.out.println("Твоё имя: " + name);
+        System.out.println("Тебе лет: " + number);
         in.close();
     }
 }

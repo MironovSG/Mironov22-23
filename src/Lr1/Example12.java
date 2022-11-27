@@ -1,14 +1,16 @@
 package Lr1;
 import java.util.Scanner;
+import java.time.Year;
+
 public class Example12 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Введи свои два числа и получи сумму");
-        int number1 = in.nextInt();
-        int number2 = in.nextInt();
-        System.out.println(number1 + number2);
+        System.out.println("Укажи свой возраст, а я покажу год рождения");
+        System.out.println("Твой возраст:");
+        int number = in.nextInt();
+        int yearNow = Year.now().getValue();
+        int year = yearNow - number;
+        System.out.println("Твой год рождения: " + year);
         in.close();
-
-
     }
 }

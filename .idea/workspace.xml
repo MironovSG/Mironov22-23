@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Lr1/Example12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/Example13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr1/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr1/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1000/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1293/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lr1/Ex11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr1/Example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr1/Example9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -24,7 +34,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Lr1/Example8.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr1/Example9.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,20 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example14">
-    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr1.Example12" />
+  <component name="RunManager" selected="Application.Example7">
+    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example15" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr1.Example13" />
+    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example6" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr1.Example14" />
+    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example7" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr1.Example2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1000.Main" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr1.*" />
+          <option name="PATTERN" value="timus.task_1000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr1.Example9" />
+    <configuration name="timus.task_1293.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1293.Main" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr1.*" />
+          <option name="PATTERN" value="timus.task_1293.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example14" />
-        <item itemvalue="Application.Example13" />
-        <item itemvalue="Application.Example12" />
-        <item itemvalue="Application.Example9" />
-        <item itemvalue="Application.Example2" />
+        <item itemvalue="Application.Example7" />
+        <item itemvalue="Application.Example6" />
+        <item itemvalue="Application.timus.task_1293.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Example15" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669494061117</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1669544534745</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669544534745</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

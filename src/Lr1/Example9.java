@@ -1,16 +1,31 @@
 package Lr1;
+
 import java.util.Scanner;
-import java.time.Year;
 
 public class Example9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Твой год рождения");
-        int year = in.nextInt();
-        int yearNow = Year.now().getValue();
-        int number = yearNow - year;
-        System.out.println("Сейчас тебе" + number);
-        in.close();
 
+        int x = in.nextInt();
+
+        if (x > 30) {
+            System.out.println("January");
+            System.out.println("March");
+            System.out.println("May");
+            System.out.println("Julie");
+            System.out.println("August");
+            System.out.println("October");
+            System.out.println("December");
+        }
+        if (x < 30) {
+            System.out.println("February");
+        }
+        if (x == 30) {
+            System.out.println("April");
+            System.out.println("June");
+            System.out.println("September");
+            System.out.println("November");
+            in.close();
+        }
     }
 }

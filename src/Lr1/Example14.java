@@ -3,13 +3,13 @@ import java.util.Scanner;
 public class Example14 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Введи два числа, программа покажет их сумму и разность");
+        System.out.println("Введи число, а программа покажет число: -1, =, +1, сумма трех в квадрате");
         int x = in.nextInt();
-        int y = in.nextInt();
-        int result1 = (x + y);
-        int result2 = (x - y);
-        System.out.println(result1);
-        System.out.println(result2);
+        System.out.println(x - 1);
+        System.out.println(x = x);
+        System.out.println(x + 1);
+        int result = ((x-1)+(x+1)+x)*((x-1)+(x+1)+x);
+        System.out.println(result);
         in.close();
     }
 }

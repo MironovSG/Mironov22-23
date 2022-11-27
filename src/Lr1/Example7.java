@@ -6,19 +6,18 @@ public class Example7 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.println("Input nameOfTheDay: ");
-        String nameOfTheDay = in.nextLine();
+        System.out.println("Input name: ");
+        String name = in.nextLine();
 
-        System.out.println("Input nameOfTheMonth: ");
-        String nameOfTheMonth = in.nextLine();
+        System.out.println("Input age: ");
+        String age = in.nextLine();
 
-        System.out.println("input date");
-        String date = in.nextLine();
-
-        System.out.println("nameOfTheDay: " + nameOfTheDay);
-        System.out.println("nameOfTheMonth: " + nameOfTheMonth);
-        System.out.println("date: " + date);
+        System.out.println("name: " + name);
+        System.out.println("age: " + age);
 
         in.close();
+
     }
 }
+
+
