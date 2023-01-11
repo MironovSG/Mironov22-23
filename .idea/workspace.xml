@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
-      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/ChekExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr6/Ex9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +40,17 @@
     <setting file="file://$PROJECT_DIR$/src/Lr5/Ex4.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/Ex5.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/Ex6.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/ChekExample.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/Ex1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/Ex10.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/Ex2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/Ex3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/Ex4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/Ex5.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/Ex6.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/Ex7.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/Ex8.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr6/Ex9.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/MainPERT.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -231,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673189018447</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Lr 2">
+      <created>1673424496921</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673424496921</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
