@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
-      <change afterPath="$PROJECT_DIR$/src/Lr3/timus/Task_1295/Ex1295.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr3/timus/Task_1296/Ex1296.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr5/Ex6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +29,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Lr1/Example9.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr3/Ex1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr5/Ex1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr5/Ex2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr5/Ex3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr5/Ex4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr5/Ex5.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr5/Ex6.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/MainPERT.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -207,7 +217,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672740071202</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lr 2">
+      <created>1673188982584</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673188982584</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Lr 2">
+      <created>1673189018447</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673189018447</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
