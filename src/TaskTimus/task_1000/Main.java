@@ -1,4 +1,4 @@
-package Lr1.timus.task_1000;
+package TaskTimus.task_1000;
 
 public class Main {
 

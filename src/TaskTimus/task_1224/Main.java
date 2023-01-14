@@ -1,4 +1,4 @@
-package Lr1.timus.task_1224;
+package TaskTimus.task_1224;
 import java.util.Scanner;
 
 public class Main {

@@ -1,4 +1,4 @@
-package Lr2.timus.Ex1409;
+package TaskTimus.Ex1409;
 import java.io.PrintWriter;
 import java.util.Scanner;
 public class Ex1409 {

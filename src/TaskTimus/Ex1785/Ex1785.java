@@ -1,4 +1,4 @@
-package Lr2.timus.Ex1785;
+package TaskTimus.Ex1785;
 
 import java.util.Scanner;
 public class Ex1785 {

@@ -1,4 +1,4 @@
-package Lr1.timus.task_1293;
+package TaskTimus.task_1293;
 
 import java.io.PrintWriter;
 import java.util.Scanner;

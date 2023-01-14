@@ -1,4 +1,4 @@
-package Lr3.timus.Task_1264;
+package TaskTimus.Task_1264;
 import java.util.Scanner;
 public class Ex1264 {
     public static void main(String[] args) {

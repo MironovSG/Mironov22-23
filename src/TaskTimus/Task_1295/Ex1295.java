@@ -1,4 +1,4 @@
-package Lr3.timus.Task_1295;
+package TaskTimus.Task_1295;
 import java.io.PrintWriter;
 import java.util.Scanner;
 public class Ex1295 {

@@ -1,4 +1,4 @@
-package Lr4.timus.task_1820;
+package TaskTimus.task_1820;
 import java.util.Scanner;
 public class Ex1820 {
     public static void main(String[] args) {

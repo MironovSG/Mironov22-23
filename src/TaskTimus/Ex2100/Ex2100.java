@@ -1,4 +1,4 @@
-package Lr2.timus.Ex2100;
+package TaskTimus.Ex2100;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
