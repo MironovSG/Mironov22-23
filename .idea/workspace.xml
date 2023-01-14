@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
-      <change afterPath="$PROJECT_DIR$/src/Lr5/ChekExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr1/timus/task_1224/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/timus/Task_1264/Ex1264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr4/timus/task_1787/Ex1787.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr4/timus/task_1877/Ex1877.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr7/Ex1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +28,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Lr1/Example9.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr3/Ex1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr5/ChekExample.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/Ex1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/Ex2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/Ex3.java" root0="SKIP_INSPECTION" />
@@ -67,7 +72,7 @@
       <recent name="Lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex1296">
+  <component name="RunManager" selected="Application.Ex1787">
     <configuration name="Ex1295" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lr3.timus.Task_1295.Ex1295" />
       <module name="Mironov22-23" />
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr4.Ex8" />
+    <configuration name="Ex1787" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr4.timus.task_1787.Ex1787" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr4.*" />
+          <option name="PATTERN" value="Lr4.timus.task_1787.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1787" />
         <item itemvalue="Application.Ex1296" />
         <item itemvalue="Application.Ex1295" />
         <item itemvalue="Application.MainPERT" />
         <item itemvalue="Application.Ex9" />
-        <item itemvalue="Application.Ex8" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673430687676</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Lr 2">
+      <created>1673444993402</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673444993402</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,5 +288,16 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Lr 2" />
     <option name="LAST_COMMIT_MESSAGE" value="Lr 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lr7/Ex1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
