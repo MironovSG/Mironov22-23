@@ -1,5 +1,4 @@
 package Lr7;
-
 public class Ex3 {
     public static void main(String[] args) {
         SuperClassEx3 testEx3Super = new SuperClassEx3(-24);

@@ -1,5 +1,4 @@
 package Lr7;
-
 public class Ex2 {
     public static void main(String[] args) {
         SubClassEx2 testEx2 = new SubClassEx2("test", 23);

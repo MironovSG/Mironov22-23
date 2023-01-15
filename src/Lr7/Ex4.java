@@ -1,5 +1,4 @@
 package Lr7;
-
 public class Ex4 {
     public static void main(String[] args) {
         System.out.print("Проверка первого класса: ");

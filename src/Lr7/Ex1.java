@@ -1,5 +1,4 @@
 package Lr7;
-
 public class Ex1 {
     public static void main(String[] args) {
         SuperClass test = new SuperClass("передал в конструктор сеперкласса");

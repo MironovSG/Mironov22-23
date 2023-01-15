@@ -1,5 +1,4 @@
 package Lr7;
-
 public class Ex5 {
     public static void main(String[] args) {
         SuperEx5 testEx5 = new SuperEx5("Строка суперкласса");
