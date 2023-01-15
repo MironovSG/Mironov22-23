@@ -1,5 +1,4 @@
 package Lr6;
-
 public class Ex8 {
     protected static double GetArrayMed(int[] Array){
         int sum=0;

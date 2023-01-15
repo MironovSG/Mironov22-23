@@ -1,5 +1,4 @@
 package Lr6;
-
 public class Ex9 {
     protected char[] ReversArray(char[] ChArray) {
         char changeChar;
