@@ -9,10 +9,8 @@ public class Ex2001 {
         int b2 = in.nextInt();
         int a3 = in.nextInt();
         int b3 = in.nextInt();
-
         int berries2 = b1 - b2;
         int berries1 = b3 - berries2 - b2;
-
         System.out.println(berries1 + " " + berries2);
     }
 }

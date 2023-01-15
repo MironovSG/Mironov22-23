@@ -1,4 +1,4 @@
-package TaskTimus.Task_1296;
+package TaskTimus.task_1296;
 import java.io.PrintWriter;
 import java.util.Scanner;
 public class Ex1296 {

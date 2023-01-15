@@ -1,16 +1,13 @@
-package TaskTimus.Ex2100;
-
+package TaskTimus.task_2100;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
 public class Ex2100 {
     public static void main(String[] args) {
         String inputFileName = "src/Lr2/timus/Ex2100/input.txt";
         boolean oj = System.getProperty("ONLINE_JUDGE") != null;
         int marshalAndLilly = 2;
-
         try {
             BufferedReader bufferedReader =
                     oj ? new BufferedReader(new InputStreamReader(System.in)):
@@ -38,6 +35,5 @@ public class Ex2100 {
         } catch (IOException exception) {
             exception.printStackTrace();
         }
-
     }
 }

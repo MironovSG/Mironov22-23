@@ -1,10 +1,8 @@
-package TaskTimus.Ex1785;
-
+package TaskTimus.task_1785;
 import java.util.Scanner;
 public class Ex1785 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-
         int a = in.nextInt();
         if (a >= 1 && a <= 4) {
             System.out.println("few");
@@ -25,8 +23,6 @@ public class Ex1785 {
         } else if (a >= 1000) {
             System.out.println("legion");
         }
-
         System.out.flush();
     }
-
 }

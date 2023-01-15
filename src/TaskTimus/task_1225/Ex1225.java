@@ -1,6 +1,5 @@
-package TaskTimus.Task_1225;
+package TaskTimus.task_1225;
 import java.util.Scanner;
-
 public class Ex1225 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
