@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
-      <change afterPath="$PROJECT_DIR$/src/TaskTimus/task_1349/Ex1349.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskTimus/task_1370/Ex1370.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/Session2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/Ex1409/Ex1409.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_1409/Ex1409.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/Ex1785/Ex1785.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_1785/Ex1785.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/Ex2100/Ex2100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_2100/Ex2100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/Ex2100/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_2100/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/Task_1225/Ex1225.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_1225/Ex1225.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/Task_1264/Ex1264.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_1264/Ex1264.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/Task_1295/Ex1295.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_1295/Ex1295.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/Task_1296/Ex1296.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_1296/Ex1296.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/task_1224/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_1224/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/task_1293/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_1293/Ex1293.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/task_1787/Ex1787.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_1787/Ex1787.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/task_1877/Ex1877.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_1877/Ex1877.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTimus/task_2001/Ex2001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskTimus/task_2001/Ex2001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +45,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex1.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex10.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex12.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex13.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex14.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex8.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr1/Example9.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr3/Ex1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/ChekExample.java" root0="SKIP_INSPECTION" />
@@ -75,15 +92,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "17"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lab9" />
       <recent name="Lr1" />
     </key>
   </component>
@@ -333,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673800864918</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Lr 2">
+      <created>1673809809379</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1673809809379</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,5 +377,16 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Lr 2" />
     <option name="LAST_COMMIT_MESSAGE" value="Lr 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Session2023/src/Lab9/Example1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
