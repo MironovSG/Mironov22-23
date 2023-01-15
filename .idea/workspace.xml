@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
-      <change afterPath="$PROJECT_DIR$/src/TaskTimus/task_1753/Ex1753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr7/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr7/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr7/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr7/Ex4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lr7/Ex1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,7 @@
     <setting file="file://$PROJECT_DIR$/src/Lr6/Ex8.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr6/Ex9.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/MainPERT.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/TaskTimus/task_1214/Ex1214.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/TaskTimus/task_1820/Ex1820.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -70,26 +73,13 @@
       <recent name="Lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex2012">
+  <component name="RunManager" selected="Application.Ex5">
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lr7.Ex1" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lr7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex1296" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskTimus.Task_1296.Ex1296" />
-      <module name="Mironov22-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TaskTimus.Task_1296.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +126,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr7.Ex5" />
+      <module name="Mironov22-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex5" />
         <item itemvalue="Application.Ex2012" />
         <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.Ex1639" />
         <item itemvalue="Application.Ex1787" />
-        <item itemvalue="Application.Ex1296" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673777192544</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Lr 2">
+      <created>1673799113919</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673799113919</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
