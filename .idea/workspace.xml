@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
-      <change afterPath="$PROJECT_DIR$/Session2023/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/Session2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Ex9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lab9/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex8.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example3.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr1/Example9.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr3/Ex1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/ChekExample.java" root0="SKIP_INSPECTION" />
@@ -359,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673809809379</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Lr 2">
+      <created>1685388167617</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1685388167617</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
