@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2" />
+    <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_1_2_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lr10/Ex1/CreateXMLFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lr10/Ex1/exam.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session2023/src/Lr10/Ex2/trt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2-api-2.19.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2-api-2.19.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2-api-2.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.19.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.19.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.20.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-core-2.20.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-core-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-core-2.20.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/Session2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Session2023/Session2023.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +55,7 @@
     <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Session2023/src/Lr10/Ex1/CreateXMLFile.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr1/Example9.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr3/Ex1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/ChekExample.java" root0="SKIP_INSPECTION" />
@@ -72,10 +97,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "17"
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/Серега/Downloads/json-simple-1.1.1.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -83,8 +117,24 @@
       <recent name="Lab9" />
       <recent name="Lr1" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Серега\IdeaProjects\Mironov22-23\Session2023\src\Lr10" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Ex1209">
+  <component name="RunManager" selected="Application.CreateXMLFile">
+    <configuration name="CreateXMLFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr10.Ex1.CreateXMLFile" />
+      <module name="Session2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr10.Ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lr7.Ex1" />
       <module name="Mironov22-23" />
@@ -104,19 +154,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="TaskTimus.task_1209.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex1639" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskTimus.task_1639.Ex1639" />
-      <module name="Mironov22-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TaskTimus.task_1639.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreateXMLFile" />
         <item itemvalue="Application.Ex1209" />
         <item itemvalue="Application.Ex5" />
         <item itemvalue="Application.Ex2012" />
         <item itemvalue="Application.Ex1" />
-        <item itemvalue="Application.Ex1639" />
       </list>
     </recent_temporary>
   </component>
