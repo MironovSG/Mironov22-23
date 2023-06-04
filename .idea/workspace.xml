@@ -5,29 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_1_2_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lr10/Ex1/CreateXMLFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lr10/Ex1/exam.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2023/src/Lr10/Ex2/trt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2-api-2.19.0-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2-api-2.19.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2-api-2.19.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.19.0-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.19.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.19.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.20.0-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.20.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.20.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-core-2.20.0-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-core-2.20.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-core-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsoup-1.16.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsoup-1.16.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsoup-1.16.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex1/XMLpars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex1/example.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex2/CreateJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex2/ParserJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex2/exJSON.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex3/LinkParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex3/NewParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/Session2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Session2023/Session2023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mironov22-23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Mironov22-23.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/Session2023.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lr10/Ex1/CreateXMLFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr10/Ex1/CreateXMLFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lr10/Ex1/exam.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Lr10/Ex2/trt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session2023/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +59,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex1.java" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex10.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex12.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex13.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex14.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Ex8.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example1.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example2.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Session2023/src/Lab9/Example3.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Session2023/src/Lr10/Ex1/CreateXMLFile.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab9/Ex1.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lab9/Ex10.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab9/Ex12.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab9/Ex13.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab9/Ex14.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab9/Ex8.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lab9/Example1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab9/Example2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab9/Example3.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr1/Example9.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr10/Ex1/CreateXMLFile.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr10/Ex1/XMLpars.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr10/Ex2/CreateJSON.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr10/Ex2/ParserJSON.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr10/Ex3/LinkParser.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr10/Ex3/NewParser.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr3/Ex1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/ChekExample.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/Ex1.java" root0="SKIP_INSPECTION" />
@@ -98,18 +116,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.Annotations": "true",
     "Repository.Attach.JavaDocs": "true",
     "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/Users/Серега/Downloads/json-simple-1.1.1.jar",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.build"
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -121,10 +140,64 @@
       <recent name="C:\Users\Серега\IdeaProjects\Mironov22-23\Session2023\src\Lr10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreateXMLFile">
-    <configuration name="CreateXMLFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex1.CreateXMLFile" />
-      <module name="Session2023" />
+  <component name="RunManager" selected="Application.NewParser">
+    <configuration name="CreateJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr10.Ex2.CreateJSON" />
+      <module name="Mironov22-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr10.Ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr10.Ex3.LinkParser" />
+      <module name="Mironov22-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr10.Ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr10.Ex3.NewParser" />
+      <module name="Mironov22-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr10.Ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr10.Ex2.ParserJSON" />
+      <module name="Mironov22-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr10.Ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XMLpars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Lr10.Ex1.XMLpars" />
+      <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lr10.Ex1.*" />
@@ -135,65 +208,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr7.Ex1" />
-      <module name="Mironov22-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lr7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex1209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskTimus.task_1209.Ex1209" />
-      <module name="Mironov22-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TaskTimus.task_1209.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex2012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskTimus.task_2012.Ex2012" />
-      <module name="Mironov22-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TaskTimus.task_2012.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr7.Ex5" />
-      <module name="Mironov22-23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lr7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreateXMLFile" />
-        <item itemvalue="Application.Ex1209" />
-        <item itemvalue="Application.Ex5" />
-        <item itemvalue="Application.Ex2012" />
-        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.NewParser" />
+        <item itemvalue="Application.LinkParser" />
+        <item itemvalue="Application.ParserJSON" />
+        <item itemvalue="Application.CreateJSON" />
+        <item itemvalue="Application.XMLpars" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685388167617</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Lr 2">
+      <created>1685563438722</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1685563438722</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -404,7 +432,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Session2023/src/Lab9/Example1.java</url>
+          <url>file://$PROJECT_DIR$/src/Lab9/Example1.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

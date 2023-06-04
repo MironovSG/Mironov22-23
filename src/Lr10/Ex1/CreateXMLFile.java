@@ -1,11 +1,11 @@
 package Lr10.Ex1;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.transform.OutputKeys;
 import java.io.File;
+
 public class CreateXMLFile {
     public static void main(String[] args) {
         try {
@@ -17,7 +17,7 @@ public class CreateXMLFile {
             Element rootElement = doc.createElement("library");
             doc.appendChild(rootElement);
 
-            // Добавление первой книги
+            //Добавление первой книги
             Element book1 = doc.createElement("book");
             rootElement.appendChild(book1);
 
@@ -33,7 +33,7 @@ public class CreateXMLFile {
             year1.appendChild(doc.createTextNode("1869"));
             book1.appendChild(year1);
 
-            // Добавление второй книги
+            //Добавление второй книги
             Element book2 = doc.createElement("book");
             rootElement.appendChild(book2);
 
@@ -59,15 +59,17 @@ public class CreateXMLFile {
             transformer.setOutputProperty(OutputKeys.INDENT, "yes");
             javax.xml.transform.dom.DOMSource source = new javax.xml.transform.dom.DOMSource(doc);
             javax.xml.transform.stream.StreamResult result =
-                    new javax.xml.transform.stream.StreamResult(new File("src/Lr10/Ex1/exam.xml"));
+                    new javax.xml.transform.stream.StreamResult(new File("src/Lr10/Ex1/example.xml"));
             transformer.transform(source, result);
 
             System.out.println("XML-файл успешно создан!");
-        } catch(Exception pce){
+
+        } catch (Exception pce) {
             pce.printStackTrace();
         }
     }
 }
+
 
 
 
