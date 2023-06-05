@@ -5,42 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jsoup-1.16.1-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jsoup-1.16.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jsoup-1.16.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex1/XMLpars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex1/example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex2/CreateJSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex2/ParserJSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex2/exJSON.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex3/LinkParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex3/NewParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mironov22-23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Mironov22-23.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/Session2023.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Ex9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lab9/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab9/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lr10/Ex1/CreateXMLFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr10/Ex1/CreateXMLFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lr10/Ex1/exam.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Lr10/Ex2/trt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session2023/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,24 +78,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "true",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Серега/Downloads/json-simple-1.1.1.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Серега/Downloads/json-simple-1.1.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Lab9" />
@@ -409,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685563438722</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Lr 2">
+      <created>1685902382232</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1685902382232</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
