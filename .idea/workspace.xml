@@ -5,7 +5,178 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_camel_springboot_spring_boot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFile1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/MyNewBot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Clouds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Forecast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Humidity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Pressure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Rain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Snow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Timezone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Visibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/api/weather/Wind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Help/parser/WeatherMessageParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/NonCommand/CityNonCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/NonCommand/NonCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/NonCommand/SetTimeDateZoneCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Setting/Emojis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Setting/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/Setting/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/TGbot/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/TGbotcommands/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/TGbotcommands/Options/WeatherNow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/TGbotcommands/Options/WeatherToday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/TGbotcommands/Service/Help.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/TGbotcommands/Service/Reset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/TGbotcommands/Service/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/WeatherBotApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/main/AfterBotRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/main/SpringWebhookBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/main/TelegramBotInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/main/TelegramBotStarterConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNewBot/src/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-api-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-api-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-api-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-base-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-base-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-base-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-base-engine-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-base-engine-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-base-engine-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-cloud-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-cloud-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-cloud-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-cluster-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-cluster-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-cluster-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-engine-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-engine-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-engine-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-languages-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-languages-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-languages-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-model-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-model-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-model-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-processor-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-processor-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-processor-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-reifier-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-reifier-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-reifier-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-xml-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-xml-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-core-xml-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-dsl-support-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-dsl-support-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-dsl-support-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-endpointdsl-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-endpointdsl-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-endpointdsl-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-health-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-health-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-health-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-main-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-main-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-main-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-management-api-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-management-api-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-management-api-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-boot-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-boot-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-boot-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-main-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-main-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-main-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-xml-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-xml-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-spring-xml-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-support-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-support-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-support-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-util-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-util-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-util-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-io-util-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-io-util-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-io-util-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-jaxb-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-jaxb-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-jaxb-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-jaxb-dsl-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-jaxb-dsl-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-jaxb-dsl-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-jaxp-3.11.1-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-jaxp-3.11.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/camel-xml-jaxp-3.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.activation-1.2.2-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.activation-1.2.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.activation-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.activation-api-1.2.2-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.activation-api-1.2.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.activation-api-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.xml.bind-api-2.3.3-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.xml.bind-api-2.3.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.xml.bind-api-2.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-core-2.3.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-core-2.3.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-core-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-impl-2.3.3-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-impl-2.3.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-impl-2.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.30-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.30-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-tx-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex5/XMLdoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex5/collection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex5/collectionStart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTimus2/Task1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTimus2/Task1197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTimus2/Task1228.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTimus2/Task1243.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTimus2/Task1247.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTimus2/Task1255.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTimus2/Task1283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTimus2/Task1290.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTimus2/Task1924.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTimus2/Task2066.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNewBot/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +194,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -37,6 +208,23 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/Help/api/API.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/Help/parser/WeatherMessageParser.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/NonCommand/CityNonCommand.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/NonCommand/NonCommand.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/NonCommand/SetTimeDateZoneCommand.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/Setting/Emojis.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/Setting/Location.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/Setting/Settings.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/TGbot/Bot.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/TGbotcommands/Service/Help.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/TGbotcommands/Service/Reset.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/TGbotcommands/Service/Start.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/WeatherBotApplication.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/main/AfterBotRegistration.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/main/SpringWebhookBot.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/main/TelegramBotInitializer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MyNewBot/src/main/TelegramBotStarterConfiguration.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lab9/Ex1.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Lab9/Ex10.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lab9/Ex12.java" root0="SKIP_INSPECTION" />
@@ -53,6 +241,7 @@
     <setting file="file://$PROJECT_DIR$/src/Lr10/Ex2/ParserJSON.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr10/Ex3/LinkParser.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr10/Ex3/NewParser.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr10/Ex5/XMLdoc.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr3/Ex1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/ChekExample.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/Ex1.java" root0="SKIP_INSPECTION" />
@@ -72,59 +261,85 @@
     <setting file="file://$PROJECT_DIR$/src/Lr6/Ex7.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr6/Ex8.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr6/Ex9.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr8/Ex1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr8/Ex10.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr8/Ex3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr8/Ex4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr8/Ex5.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr8/Ex6.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr8/Ex7.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr8/Ex9.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr8/Task2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/MainPERT.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/TaskTimus/task_1214/Ex1214.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/TaskTimus/task_1370/Ex1370.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/TaskTimus/task_1820/Ex1820.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/TaskTimus/task_2001/Ex2001.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/TaskTimus/task_2100/Ex2100.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/TaskTimus2/Task1001.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/TaskTimus2/Task1197.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/TaskTimus2/Task1228.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/TaskTimus2/Task1924.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/TaskTimus2/Task2066.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2I5hQ3wVREfNHgkWSaVIQKsyEvl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Серега/Downloads/json-simple-1.1.1.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/Серега/IdeaProjects/PogodaBot",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Lab9" />
       <recent name="Lr1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Серега\IdeaProjects\Mironov22-23\MyNewBot\src" />
       <recent name="C:\Users\Серега\IdeaProjects\Mironov22-23\Session2023\src\Lr10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NewParser">
-    <configuration name="CreateJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex2.CreateJSON" />
+  <component name="RunManager" selected="Application.XMLdoc">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr8.Ex1" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr10.Ex2.*" />
+          <option name="PATTERN" value="Lr8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex3.LinkParser" />
+    <configuration name="ReadExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr10.Ex4.ReadExcel" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr10.Ex3.*" />
+          <option name="PATTERN" value="Lr10.Ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +360,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex3.NewParser" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr8.Task3.Task3" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr10.Ex3.*" />
+          <option name="PATTERN" value="Lr8.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +373,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParserJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex2.ParserJSON" />
+    <configuration name="WriteExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr10.Ex4.WriteExcel" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr10.Ex2.*" />
+          <option name="PATTERN" value="Lr10.Ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,14 +386,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XMLpars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex1.XMLpars" />
+    <configuration name="XMLdoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr10.Ex5.XMLdoc" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr10.Ex1.*" />
+          <option name="PATTERN" value="Lr10.Ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +401,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NewParser" />
-        <item itemvalue="Application.LinkParser" />
-        <item itemvalue="Application.ParserJSON" />
-        <item itemvalue="Application.CreateJSON" />
-        <item itemvalue="Application.XMLpars" />
+        <item itemvalue="Application.XMLdoc" />
+        <item itemvalue="Application.ReadExcel" />
+        <item itemvalue="Application.WriteExcel" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +614,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685944116479</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Lr 2">
+      <created>1685945893992</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1685945893992</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Lr 2">
+      <created>1686383034207</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1686383034207</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,6 +643,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="Lr 2" />
     <option name="LAST_COMMIT_MESSAGE" value="Lr 2" />
