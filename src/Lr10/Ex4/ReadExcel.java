@@ -27,7 +27,6 @@ public class ReadExcel {
             }
             System.out.println();
         }
-
         // Закрываем файл и освобождаем ресурсы
         workbook.close();
         inputStream.close();

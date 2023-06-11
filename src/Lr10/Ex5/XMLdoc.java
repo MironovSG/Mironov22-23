@@ -49,7 +49,7 @@ public class XMLdoc {
         do{
             if(isFirst) isFirst = false;
             else System.out.println("Такого пункта нет в меню");
-            System.out.print("\n \nВаш ответ: ");
+            System.out.print("\n \n Выберите существующий пункт: ");
             try {
                 String input = in.nextLine();
 
@@ -91,7 +91,7 @@ public class XMLdoc {
         boolean valid;
         do {
             valid = true;
-            System.out.print("\nВведите название произведения: ");
+            System.out.print("\n Введите название произведения: ");
             try {
                 inputName = in.nextLine();
                 if(inputName.isEmpty()) throw new DataFormatException();
@@ -128,8 +128,8 @@ public class XMLdoc {
                 in.nextLine();
             }
 
-            if(valid && (inputYear < 1950 || inputYear > year)){
-                System.out.println("Ошибка! Введите год в промежутке между 1950 и " + year + " годами!");
+            if(valid && (inputYear < 1900 || inputYear > year)){
+                System.out.println("Ошибка! Введите год в промежутке между 1900 и " + year + " годами!");
                 valid = false;
             }
         }while(!valid);
@@ -166,7 +166,7 @@ public class XMLdoc {
         System.out.print("\nВведите " + inputWord + ": ");
         String searchValue = in.nextLine();
 
-        // Ищем
+        // Поиск
         List<Element> foundElements = findInCollection(collection, searchParam);
 
         if (foundElements.size() == 0)
@@ -234,13 +234,11 @@ public class XMLdoc {
 
         System.out.println("* " + gbook + " (" + gauthor + ", " + gyear + ")");
     }
-
     static void waitForEnter() {
         System.out.println("\n\nНажмите [Enter] чтобы вернуться в меню...");
         Scanner in = new Scanner(System.in);
         in.nextLine();
     }
-
     static Document getXMLDocument(String filePath){
         Document ret = null;
 
@@ -253,10 +251,8 @@ public class XMLdoc {
         }catch (Exception e){
             e.printStackTrace();
         }
-
         return ret;
     }
-
     static List<Element> findInCollection(Document collection, String searchParam){
         List<Element> retList = new ArrayList();
 
@@ -269,10 +265,8 @@ public class XMLdoc {
                 if(searchValue.equals(text)) retList.add(element);
             }
         }
-
         return retList;
     }
-
     static boolean addInCollection(Document collection, String name, String author, int year) {
         boolean ret = true;
 
@@ -299,10 +293,8 @@ public class XMLdoc {
             e.printStackTrace();
             ret = false;
         }
-
         return ret;
     }
-
     public static void saveFile(Document collection){
         try {
             collection.normalizeDocument();
