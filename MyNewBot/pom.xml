@@ -98,6 +98,16 @@
             <version>${lombook.version}</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>hu.blackbelt.bundles.poi</groupId>
+            <artifactId>org.apache.poi</artifactId>
+            <version>4.1.2_2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>5.2.2</version>
+        </dependency>
     </dependencies>
 
 </project>

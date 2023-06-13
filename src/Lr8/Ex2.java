@@ -17,7 +17,6 @@ public class Ex2 {
                 break;}
         }
     }
-
     public static void main(String[] args) throws IOException {
         try {  //С потоком связан файл
             InputStream inFile = new FileInputStream("C:\\Users\\For URFU\\IdeaProjects\\URFU\\MyFile1.txt");
@@ -37,9 +36,7 @@ public class Ex2 {
         }
         catch (IOException e){
             System.out.println("Ошибка: " + e);
-
         }
-
     }
 }
 

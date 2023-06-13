@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c305c45-508d-443f-aa28-06a23e8cf06a" name="Changes" comment="Lr 2">
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex7/HtmlParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex7/news.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex8/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lr10/Ex8/example.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab11/Ex7/ArrayListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab11/Ex7/LinkedListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab11/Ex8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab11/Ex8/Project.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lr10/Ex4/ReadExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr10/Ex4/ReadExcel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lr10/Ex5/XMLdoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr10/Ex5/XMLdoc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lr10/Ex5/collection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr10/Ex5/collection.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNewBot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyNewBot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab11/Ex1/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab11/Ex1/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab11/Ex2/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab11/Ex2/Ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab11/Ex3/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab11/Ex3/Ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab11/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab11/Ex6/Ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr8/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr8/Ex2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +64,12 @@
     <setting file="file://$PROJECT_DIR$/MyNewBot/src/main/SpringWebhookBot.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/MyNewBot/src/main/TelegramBotInitializer.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/MyNewBot/src/main/TelegramBotStarterConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab11/Ex1/Ex3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab11/Ex6/Ex6.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab11/Ex7/LinkedListEx.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab11/Ex8/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab11/Ex8/Project.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lab11/Ex8/RunTime.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lab9/Ex1.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Lab9/Ex10.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lab9/Ex12.java" root0="SKIP_INSPECTION" />
@@ -78,6 +87,7 @@
     <setting file="file://$PROJECT_DIR$/src/Lr10/Ex3/LinkParser.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr10/Ex3/NewParser.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr10/Ex5/XMLdoc.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lr10/Ex8/ExcelReader.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr3/Ex1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/ChekExample.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Lr5/Ex1.java" root0="SKIP_INSPECTION" />
@@ -140,25 +150,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Серега/IdeaProjects/Mironov22-23/src/Lr10/Ex8",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Серега/IdeaProjects/PogodaBot&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Lab9" />
@@ -172,13 +182,13 @@
       <recent name="C:\Users\Серега\IdeaProjects\Mironov22-23\Session2023\src\Lr10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XMLdoc">
-    <configuration name="ExcelReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex8.ExcelReader" />
+  <component name="RunManager" selected="Application.Tail">
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab11.Ex1.Ex2" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr10.Ex8.*" />
+          <option name="PATTERN" value="Lab11.Ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HtmlParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex7.HtmlParser" />
+    <configuration name="Head" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab11.Ex5.Head" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr10.Ex7.*" />
+          <option name="PATTERN" value="Lab11.Ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex4.ReadExcel" />
+    <configuration name="RunTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab11.Ex8.RunTime" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr10.Ex4.*" />
+          <option name="PATTERN" value="Lab11.Ex8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex4.WriteExcel" />
+    <configuration name="Tail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab11.Ex5.Tail" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr10.Ex4.*" />
+          <option name="PATTERN" value="Lab11.Ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XMLdoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lr10.Ex5.XMLdoc" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab11.Ex4.Test1" />
       <module name="Mironov22-23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lr10.Ex5.*" />
+          <option name="PATTERN" value="Lab11.Ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XMLdoc" />
-        <item itemvalue="Application.ExcelReader" />
-        <item itemvalue="Application.HtmlParser" />
-        <item itemvalue="Application.ReadExcel" />
-        <item itemvalue="Application.WriteExcel" />
+        <item itemvalue="Application.Tail" />
+        <item itemvalue="Application.Head" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.RunTime" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686398340280</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Lr 2">
+      <created>1686508734889</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1686508734889</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
