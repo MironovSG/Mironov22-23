@@ -6,6 +6,7 @@ public class Node {
     Node(int value, Node next){ // конструктор класса
         this.value = value;
         this.next = next;
+
     }
 }
 
